@@ -17,8 +17,8 @@ It helped understand the different variables by anayzing them through visuaizati
     * -In **Bivariate** I explored the relationship between the different variabes to remove Highy Correlated Independent Variables, and find variables that have much and less correlation with the dependent variable. There are also different ways of exploring Categorical and Continuous variables in bivariate exploration.\
 
 * Model Development\
-After the data preparation, I built the model on different algorithms and selected the best, I also performed some Feature engineering to Improve the accuracy of the model.
+After the data preparation and exploratory data analysis, I built the model on different algorithms and selected XGBClassifier, I also performed Feature engineering, and hyperparameter optimization with optuna to Improve the accuracy of the model.
 
 * Model Interpretation\
-The model is to predict whether a loan applicant will be eligible for a loan.
+The model is to predict whether a loan applicant will be eligible for a loan, the classifier learns the relationship between the features and the target variable which is the eligibility status, so as to predict eligibility status for new set of loan applicants.
    

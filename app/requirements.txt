@@ -7,9 +7,4 @@ xgboost
 catboost
 lightgbm
 optuna
-<<<<<<< HEAD
 flask
-fla
-=======
-flask
->>>>>>> c28aa6b9062d88b416d69d9d433d0cf35e65d22f

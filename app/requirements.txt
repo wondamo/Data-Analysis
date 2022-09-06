@@ -5,5 +5,5 @@ seaborn
 scikit-learn
 xgboost
 catboost
-optuna
 flask
+joblib
